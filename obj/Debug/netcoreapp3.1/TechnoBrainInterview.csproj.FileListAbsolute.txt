@@ -1,0 +1,11 @@
+C:\Users\Conny\Desktop\TechnoBrainInterview\bin\Debug\netcoreapp3.1\TechnoBrainInterview.exe
+C:\Users\Conny\Desktop\TechnoBrainInterview\bin\Debug\netcoreapp3.1\TechnoBrainInterview.deps.json
+C:\Users\Conny\Desktop\TechnoBrainInterview\bin\Debug\netcoreapp3.1\TechnoBrainInterview.runtimeconfig.json
+C:\Users\Conny\Desktop\TechnoBrainInterview\bin\Debug\netcoreapp3.1\TechnoBrainInterview.runtimeconfig.dev.json
+C:\Users\Conny\Desktop\TechnoBrainInterview\bin\Debug\netcoreapp3.1\TechnoBrainInterview.dll
+C:\Users\Conny\Desktop\TechnoBrainInterview\bin\Debug\netcoreapp3.1\TechnoBrainInterview.pdb
+C:\Users\Conny\Desktop\TechnoBrainInterview\obj\Debug\netcoreapp3.1\TechnoBrainInterview.csprojAssemblyReference.cache
+C:\Users\Conny\Desktop\TechnoBrainInterview\obj\Debug\netcoreapp3.1\TechnoBrainInterview.AssemblyInfoInputs.cache
+C:\Users\Conny\Desktop\TechnoBrainInterview\obj\Debug\netcoreapp3.1\TechnoBrainInterview.AssemblyInfo.cs
+C:\Users\Conny\Desktop\TechnoBrainInterview\obj\Debug\netcoreapp3.1\TechnoBrainInterview.dll
+C:\Users\Conny\Desktop\TechnoBrainInterview\obj\Debug\netcoreapp3.1\TechnoBrainInterview.pdb
