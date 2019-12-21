@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace TechnoBrainInterview
+﻿namespace TechnoBrainInterview
 {
     using System; 
       
