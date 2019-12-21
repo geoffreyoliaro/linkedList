@@ -89,14 +89,7 @@ public class LinkedList
         llist.push("C"); 
         llist.push("C"); 
         llist.push("D"); 
-
-        // llist.push(13); 
-        // llist.push(13); 
-        // llist.push(11); 
-        // llist.push(11); 
-        // llist.push(11);
-        // llist.push(15);
-        // llist.push(17); 
+ 
           
         Console.WriteLine("List before removal of duplicates"); 
         llist.printList(); 
