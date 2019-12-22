@@ -2,10 +2,8 @@ using Xunit;
 public class testClass
 {   
     [Fact]
-    public void PassingLinkedList()
+    public void PassingHead()
     {
         
-
-
     }
 }

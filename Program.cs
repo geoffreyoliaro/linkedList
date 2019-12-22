@@ -13,7 +13,8 @@ public class LinkedList
         public Node next; 
         public Node(string d)  
         { 
-            data = d; next = null; 
+            data = d; 
+            next = null; 
         } 
     } 
   

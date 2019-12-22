@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Conny\\Desktop\\TechnoBrainInterview\\TechnoBrainInterview.csproj": {}
+    "c:\\Users\\Conny\\Desktop\\TechnoBrainInterview\\TechnoBrainInterview.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Conny\\Desktop\\TechnoBrainInterview\\TechnoBrainInterview.csproj": {
+    "c:\\Users\\Conny\\Desktop\\TechnoBrainInterview\\TechnoBrainInterview.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Conny\\Desktop\\TechnoBrainInterview\\TechnoBrainInterview.csproj",
+        "projectUniqueName": "c:\\Users\\Conny\\Desktop\\TechnoBrainInterview\\TechnoBrainInterview.csproj",
         "projectName": "TechnoBrainInterview",
-        "projectPath": "C:\\Users\\Conny\\Desktop\\TechnoBrainInterview\\TechnoBrainInterview.csproj",
+        "projectPath": "c:\\Users\\Conny\\Desktop\\TechnoBrainInterview\\TechnoBrainInterview.csproj",
         "packagesPath": "C:\\Users\\Conny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Conny\\Desktop\\TechnoBrainInterview\\obj\\",
+        "outputPath": "c:\\Users\\Conny\\Desktop\\TechnoBrainInterview\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Conny\\AppData\\Roaming\\NuGet\\NuGet.Config"
